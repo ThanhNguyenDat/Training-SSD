@@ -6,7 +6,9 @@ you need to make sure you have completed this step
 
 ## The Second: Prepare Data and Config
 
-You're download config from ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz and copy into models folder (I copied, but you must extract file .gz because you're going to use checkpoint file).
+You're download config from ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz and copy into models folder. 
+
+(I copied, but you must extract file .gz because you're going to use checkpoint file).
 
 ### Prepare Data
 
