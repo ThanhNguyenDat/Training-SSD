@@ -14,4 +14,5 @@ You're download config from ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz
 ### The Third: Training model
 run this in cmd: 
 `python C:/NguyenDatThanh/TF2_ObjDetect_API/models/research/object_detection/model_main_tf2.py --model_dir=models --pipeline_config_path=models/pipeline.config --num_train_steps=5000`
+
 Note: `model_main_tf2.py` file depends on your path when you have done step the first
