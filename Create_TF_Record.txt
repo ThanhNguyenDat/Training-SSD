@@ -1,0 +1,3 @@
+python generate_tfrecord.py -x images/train -l label_map.pbtxt -o train.record
+
+python generate_tfrecord.py -x images/test -l label_map.pbtxt -o test.record
