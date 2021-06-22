@@ -1,6 +1,6 @@
 # Training-SSD
 
-## The First: You install Tensorflow Object Detection API: [my link](https://github.com/ThanhNguyenDat/Install-Tensorflow-Object-Detection-API).
+## The First: You install [Tensorflow Object Detection API](https://github.com/ThanhNguyenDat/Install-Tensorflow-Object-Detection-API).
 
 you need to make sure you have completed this step
 
