@@ -31,3 +31,5 @@ You're download config from ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz
 Note: `model_main_tf2.py` file depends on your path when you have done step the first.
 
 You can try to change num_train_steps=50000.
+
+- Then you follow [link](https://www.tensorflow.org/tutorials/keras/save_and_load) to use model checkpoint
